@@ -7,7 +7,7 @@ var messages = [
 	["Christmas is a necessity. There has to be at least one day of the year to remind us that we're here for something else besides ourselves.", "Eric Sevareid"],
 	["Christmas magic is silent. You don't hear it --- you feel it, you know it, you believe it.", "Kevin Alan Milne"],
 	["Never worry about the size of your Christmas tree. In the eyes of children, they are all thirty feet tall.", "Larry Wilde"],
-	["Peace on Earth will come to stay, when we live Christmas every day.", "Helen Steiner Rice"],
+	["48.134593281379445, 11.54161898230183", "19:30"],
 	["What kind of Christmas present would Jesus ask Santa for?", "Salman Rushdie"],
 	["Unless we make Christmas an occasion to share our blessings, all the snow in Alaska won't make it white.", "Bing Crosby"],
 	["Gifts of time and love are surely the basic ingredients of a truly merry Christmas.", "Peg Bracken"],
