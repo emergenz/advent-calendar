@@ -9,8 +9,8 @@ var messages = [
 	["Never worry about the size of your Christmas tree. In the eyes of children, they are all thirty feet tall.", "Larry Wilde"],
 	["48.134593281379445, 11.54161898230183", "19:30"],
 	["48.16201659585078, 11.568221096990955", "12:45"],
-	["Unless we make Christmas an occasion to share our blessings, all the snow in Alaska won't make it white.", "Bing Crosby"],
-	["Gifts of time and love are surely the basic ingredients of a truly merry Christmas.", "Peg Bracken"],
+	["weihnachtsmarkt@rotkreuzplatz", "20:00"],
+	["48.155652, 11.512340", "17:30"],
 	["The real Santa Claus is at the mall.", "Lemony Snicket"],
 	["What if, doesn't come from a store. What if Christmas... perhaps... means a little bit more!", "Dr. Seuss"],
 	["It was often in small moments that significant things were revealed.", "Lisa Kleypas"],
@@ -22,5 +22,5 @@ var messages = [
 	["Do give books for Christmas. They're never fattening, seldom sinful, and permanently personal.", "Lenore Hershey"],
 	["Christmas works like glue, it keeps us all sticking together.", "Rosie Thomas"],
 	["Christmas is a bridge. We need bridges as the river of time flows past. Today's Christmas should mean creating happy hours for tomorrow and reliving those of yesterday.", "Gladys Taber"],
-	["MERRY CHRISTMAS", "hongkiat.com"]
+	["MERRY CHRISTMAS", "your cool ass boyfrind"]
 ];
