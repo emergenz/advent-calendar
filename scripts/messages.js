@@ -11,7 +11,7 @@ var messages = [
 	["48.16201659585078, 11.568221096990955", "12:45"],
 	["weihnachtsmarkt@rotkreuzplatz", "20:00"],
 	["48.155652, 11.512340", "17:30"],
-	["The real Santa Claus is at the mall.", "Lemony Snicket"],
+	["48.155462, 11.537538, ADOBOOOOOOOOOOOOOO", "11:00"],
 	["What if, doesn't come from a store. What if Christmas... perhaps... means a little bit more!", "Dr. Seuss"],
 	["It was often in small moments that significant things were revealed.", "Lisa Kleypas"],
 	["I wish we could put up some of the Christmas spirit in jars and open a jar of it every month.", "Harlan Miller"],
