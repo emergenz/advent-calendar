@@ -12,7 +12,7 @@ var messages = [
 	["weihnachtsmarkt@rotkreuzplatz", "20:00"],
 	["48.155652, 11.512340", "17:30"],
 	["48.155462, 11.537538, ADOBOOOOOOOOOOOOOO", "11:00"],
-	["What if, doesn't come from a store. What if Christmas... perhaps... means a little bit more!", "Dr. Seuss"],
+	["my place - just a small gesture", "19:00"],
 	["It was often in small moments that significant things were revealed.", "Lisa Kleypas"],
 	["I wish we could put up some of the Christmas spirit in jars and open a jar of it every month.", "Harlan Miller"],
 	["Christmas is not an external event at all, but a piece of one's home that one carries in one's heart.", "Freya Stark"],
